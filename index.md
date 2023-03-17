@@ -3,6 +3,6 @@ layout: page
 title: ""
 ---
 
-I'm currently a Master's degree student at Department of Precision Engineering, Osaka University.
+I'm a Master's degree student at the Department of Precision Engineering, Osaka University.
 
-My research falls in the interdisplinary area of physics, chemistry, material science, simulation and engineering. The research interest that I am focusing on in this moment is Surface Engineering Science.
+My research falls in the interdisciplinary area of physics, chemistry, material science, simulation and engineering. The research interest I am focusing on now is Surface Engineering Science.
