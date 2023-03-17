@@ -16,8 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home Change", icon: home}
+  - {file: "https://ecsosaka-my.sharepoint.com/:b:/g/personal/u622781c_ecs_osaka-u_ac_jp/EX2mE53PKdRJjH6jVIKOVFQBLMehuLqqyIubgmpOPYKnjQ?e=fhRuQV", title: "CV"}
   - {file: "README.md", title: "About me"}
+  - {file: "Lab", url: "http://www-nms.prec.eng.osaka-u.ac.jp/en/"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
