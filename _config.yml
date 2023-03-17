@@ -10,13 +10,12 @@ date_format: "%B %d, %Y"
 
 show_excerpts: false        # show article excerpts on the home page
 show_frame: false           # adds a gray frame to the site
-show_sidebar: true        # show a sidebar instead of the usual header
+show_sidebar: false        # show a sidebar instead of the usual header
 minimal: true             # use a dark header
 
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {title: "Home", file: "index.md"}
   - {title: "CV", url: "https://ecsosaka-my.sharepoint.com/:b:/g/personal/u622781c_ecs_osaka-u_ac_jp/EX2mE53PKdRJjH6jVIKOVFQBLMehuLqqyIubgmpOPYKnjQ?e=qbROgV"}
   - {title: "About me", file: "README.md"}
   - {title: "Lab", url: "http://www-nms.prec.eng.osaka-u.ac.jp/en/"}
